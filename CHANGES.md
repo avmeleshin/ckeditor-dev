@@ -6,7 +6,7 @@
 Fixed Issues:
 
 * [#1397](https://github.com/ckeditor/ckeditor-dev/issues/1397): Fixed: Using dialog to remove headers from the [table](https://ckeditor.com/cke4/addon/table) with one headers row only throws an error.
-* [#1901](https://github.com/ckeditor/ckeditor-dev/issues/1901): Fixed: Can not open context menu with keyboard shortcut <kbd>Shift</kbd>+<kbd>F10</kbd> over [widget](https://ckeditor.com/docs/ckeditor4/latest/guide/dev_widgets.html).
+* [#1901](https://github.com/ckeditor/ckeditor-dev/issues/1901): Fixed: Can't open a context menu with keyboard shortcut <kbd>Shift</kbd>+<kbd>F10</kbd> over a [Widget](https://ckeditor.com/cke4/addon/widget).
 
 ## CKEditor 4.11.3
 
